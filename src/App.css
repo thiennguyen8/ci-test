@@ -40,14 +40,15 @@
 body {
   background-color: #001f3f;
 }
-.weather-app{
+.screen{
   background-color: white ;
+  justify-content: center;
   max-width: 500px;
   margin:auto;
   border-radius: 5px;
   border: 1px solid #000;
-  /* position: absolute;
+  position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
 }
